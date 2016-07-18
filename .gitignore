@@ -90,3 +90,6 @@ ENV/
 
 # SQlite
 db.sqlite3
+
+# VS Code
+.vscode
